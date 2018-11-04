@@ -1,4 +1,4 @@
-package org.lineageos.settings.device.dac.utils;
+package com.joan.settings.device.dac.utils;
 
 import android.media.AudioSystem;
 import android.os.SystemProperties;

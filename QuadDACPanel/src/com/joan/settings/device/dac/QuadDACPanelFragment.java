@@ -1,4 +1,4 @@
-package org.lineageos.settings.device.dac;
+package com.joan.settings.device.dac;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -15,9 +15,9 @@ import android.util.Log;
 import android.view.MenuItem;
 
 
-import org.lineageos.settings.device.dac.ui.BalancePreference;
-import org.lineageos.settings.device.dac.utils.Constants;
-import org.lineageos.settings.device.dac.utils.QuadDAC;
+import com.joan.settings.device.dac.ui.BalancePreference;
+import com.joan.settings.device.dac.utils.Constants;
+import com.joan.settings.device.dac.utils.QuadDAC;
 
 public class QuadDACPanelFragment extends PreferenceFragment
         implements OnPreferenceChangeListener {

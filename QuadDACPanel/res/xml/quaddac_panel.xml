@@ -30,7 +30,7 @@
     <PreferenceCategory
         android:title="@string/quad_dac_balance" >
 
-        <org.lineageos.settings.device.dac.ui.BalancePreference
+        <com.joan.settings.device.dac.ui.BalancePreference
             android:key="balance"
             android:summary="@string/quad_dac_balance_summary"
             android:title="@string/empty_string" />
